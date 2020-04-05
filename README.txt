@@ -1,9 +1,11 @@
 Kelompok: INS2A
 Ketua : Naufal Furqon
 Anggota : 1. Rahmat Adi Wibowo
-2. Naufal Furqon
+          2. Naufal Furqon
 Kelas : Instrumentasi 2A
+
 Info Project
+
 Tools yang digunakan: Adobe Illustrator, Notepad ++.
 Framework : 
 Deskripsi Innovative Content:
